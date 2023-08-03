@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../my-vue-app"
+		},
+		{
+			"path": "../../../../cityshop-server"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {}
+}
